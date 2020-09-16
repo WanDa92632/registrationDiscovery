@@ -1,0 +1,7 @@
+server:
+  port: 8089
+registry-centre:
+  url: http://127.0.0.1:/registers/server/
+spring:
+  main:
+    allow-bean-definition-overriding: false

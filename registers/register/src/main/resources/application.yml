@@ -1,0 +1,6 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: register-center
+register: http://127.0.0.1:8081/server/

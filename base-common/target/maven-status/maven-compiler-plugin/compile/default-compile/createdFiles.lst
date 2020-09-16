@@ -1,0 +1,4 @@
+com\wanda\base\config\RestTemplateConfig.class
+com\wanda\base\model\Config.class
+com\wanda\base\model\RespBean.class
+com\wanda\base\enums\Constants.class
